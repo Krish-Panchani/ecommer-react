@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Krish",
+        "address": "Ahmedabad",
+        "mobile": "1234567890",
+        "product": "shoes",
+        "price": "50000",
+        "quantity": "1",
+        "status": "Not Dispatched"
+    },
+    {
+        "id": "2",
+        "name": "Rahul",
+        "address": "Ahmedabad",
+        "mobile": "1234567890",
+        "product": "t-sirt",
+        "price": "50000",
+        "quantity": "1",
+        "status": "Not Dispatched"
+    },
+    {
+        "id": "3",
+        "name": "Raj",
+        "address": "Ahmedabad",
+        "mobile": "1234567890",
+        "product": "shoes",
+        "price": "50000",
+        "quantity": "1",
+        "status": "Not Dispatched"
+    }
+]
