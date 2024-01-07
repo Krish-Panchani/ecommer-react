@@ -4,13 +4,13 @@ import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBFgtL-lCkpiE2p15hYT26uMLdCYG0TiCo",
-  authDomain: "locommerce-auth.firebaseapp.com",
-  projectId: "locommerce-auth",
-  storageBucket: "locommerce-auth.appspot.com",
-  messagingSenderId: "260451495273",
-  appId: "1:260451495273:web:cd565e1f653faaf6f461f8",
-  measurementId: "G-RWRFBEZDD7"
+  apiKey: "#",
+  authDomain: "#",
+  projectId: "#-auth",
+  storageBucket: "#",
+  messagingSenderId: "3",
+  appId: "#",
+  measurementId: "#"
 };
 
 // Initialize Firebase
